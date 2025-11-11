@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildReasons>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\sampletext\4pp065_0571_p74\brsystem.br">
+    <BuildReason>Prerequiste "c:\brautomation\as\system\d0452\sg4\ia32\brsystem.br" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\sampletext\4pp065_0571_p74\runtime.br">
+    <BuildReason>Prerequiste "c:\brautomation\as\system\d0452\sg4\ia32\runtime.br" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\sampletext\4pp065_0571_p74\sys_lib.br">
+    <BuildReason>Prerequiste "c:\brautomation\as\system\d0452\sg4\ia32\sys_lib.br" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\sampletext\4pp065_0571_p74\asstring.br">
+    <BuildReason>Prerequiste "c:\brautomation\as\system\d0452\sg4\ia32\asstring.br" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="#cpu_tp.mak">
+    <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\binaries\sampletext\4pp065_0571_p74\transfer.lst">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\sampletext\4pp065_0571_p74\sys_lib.br" differs.
+</BuildReason>
+  </Rule>
+</BuildReasons>
